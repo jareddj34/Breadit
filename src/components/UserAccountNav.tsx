@@ -1,5 +1,3 @@
-"use client";
-
 import { User } from "next-auth";
 import {
     DropdownMenu,
