@@ -1,3 +1,5 @@
+"use client";
+
 import Link from "next/link";
 import { Icons } from "./ui/icons";
 import UserAuthForm from "./UserAuthForm";
